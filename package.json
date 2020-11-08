@@ -1,0 +1,25 @@
+{
+  "name": "hyperion-node",
+  "version": "0.0.1",
+  "description": "Serializer/Deserializer for Hyperion (https://github.com/akkadotnet/Hyperion)",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/node-projects/hyperion-node.git"
+  },
+  "author": "jochen.kuehner@gmx.de",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/node-projects/hyperion-node/issues"
+  },
+  "homepage": "https://github.com/node-projects/hyperion-node#readme",
+  "dependencies": {
+    "jest": "^26.6.3",
+    "ts-jest": "^26.4.3",
+    "typescript": "^4.0.5"
+  }
+}
